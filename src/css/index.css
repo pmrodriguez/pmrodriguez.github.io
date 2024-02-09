@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital@0;1&display=swap');
+
+body {
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #656FA6;
+    color: #F2F2F2;
+}
