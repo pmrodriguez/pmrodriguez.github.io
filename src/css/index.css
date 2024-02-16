@@ -21,4 +21,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     
+    
+}
+.h2:hover {
+    color: #F2F2F2;
 }
