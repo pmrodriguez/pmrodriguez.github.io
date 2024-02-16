@@ -10,6 +10,15 @@ body {
     color: #D9C979;
 }
 
-.text {
+.h1 {
+    font-size: 40px;
+    color: #F2F2F2;
+}
 
+.h2 {
+    font-size: 30px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
